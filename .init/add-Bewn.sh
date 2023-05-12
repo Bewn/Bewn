@@ -26,11 +26,11 @@ add_as_user () {
 get_and_clone () {
    tmploc=$RANDOM
    sudo -H -u Bewn bash -c "mkdir /tmp/$tmploc
-   				cp -r /home/Bewn /tmp/$tmploc
+   			    cp -r /home/Bewn /tmp/$tmploc
 			    cd /home/Bewn
 				   ls -A1 | xargs rm -rf
 				git clone https://github.com/Bewn/Bewn .
-			    cp -r /tmp/$tmploc /home/Bewn"
+			    mv /tmp/$tmploc /home/Bewn"
 }
 
 run () {
