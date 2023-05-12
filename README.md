@@ -1,5 +1,6 @@
 ### Ben's github home
-github.com/Bewn/Bewn
+https://github.com/Bewn/Bewn
+
 for code and fun. Clone this Bewn repo for a reusable unix home directory.
 
 Bewn like boon 
