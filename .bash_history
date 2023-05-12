@@ -25,3 +25,17 @@ ls -a
 rm add-Bewn.sh 
 ls
 exit
+ls
+cd
+ls
+git submodule add https://github.com/Bewn/bsh
+ls
+cd bsh/
+ls
+cd ..
+ls
+git commit -m "added submodule"
+git push
+lsblk
+sudo umount /enclave
+exit
