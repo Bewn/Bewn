@@ -1,4 +1,6 @@
 #!/bin/bash
-cd /home
-git clone https://github.com/Bewn/Bewn
-useradd -g wheel Bewn
+
+sudo useradd -g wheel Bewnv && cd /home/
+sudo git clone https://github.com/Bewn/Bewn
+sudo chown Bewn Bewn
+
