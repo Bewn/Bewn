@@ -10,7 +10,7 @@ if [ ! -z $(touch /home/Bewn) ];
   echo "please add Bewn as a user manually, or run this script again"
   sudo chown --recursive Bewn /home/Bewn;
   else cd /home/Bewn && eval "$(login Bewn && git pull)"
-  fi
+fi
 
 
 
