@@ -1,0 +1,3 @@
+[submodule "bsh"]
+	path = bsh
+	url = https://github.com/Bewn/bsh
