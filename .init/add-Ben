@@ -1,4 +1,4 @@
-sudo useradd --no-create-home Bewn
+sudo useradd --no-create-home -G wheel Bewn
 cd /home && sudo git clone https://github.com/Bewn/Bewn
-sudo chown Bewn Bewn
+sudo chown Bewn /home/Bewn
 
