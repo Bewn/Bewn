@@ -1,6 +1,10 @@
 ### Ben's github home
 
-for code and fun. Clone this repo for a reusable unix home directory.
+for code and fun. Clone this Bewn repo for a reusable unix home directory.
+Bewn like boon 
+or ben on the web, the nweb,
+or bεn 
+
 <!--
 **Bewn/Bewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
