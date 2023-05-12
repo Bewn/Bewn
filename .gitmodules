@@ -1,3 +1,9 @@
 [submodule "bsh"]
 	path = bsh
 	url = https://github.com/Bewn/bsh
+[submodule "pybsh"]
+	path = pybsh
+	url = https://github.com/Bewn/pybsh
+[submodule "textgen-one-click"]
+	path = textgen-one-click
+	url = https://github.com/Bewn/textgen-one-click
