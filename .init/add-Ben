@@ -1,4 +1,7 @@
+#!/usr/bin/env sh
+
 sudo useradd --no-create-home Bewn
 cd /home && sudo git clone https://github.com/Bewn/Bewn
-sudo chown Bewn /home/Bewn
+sudo chown --recursive Bewn /home/Bewn
+
 
