@@ -9,7 +9,7 @@ fi
 if [ ! -d /home/Bewn ];
   then cd /home && sudo git clone https://github.com/Bewn/Bewn
   sudo chown --recursive Bewn /home/Bewn;
-  else cd /home/Bewn && login Bewn && git pull
+  else cd /home/Bewn && $(login Bewn && git pull)
 fi
 
 
