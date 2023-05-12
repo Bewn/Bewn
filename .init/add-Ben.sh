@@ -2,12 +2,12 @@
 
 ## check for Bewn user and add if not found
 if [ -z $(cat /etc/group | grep Bewn) ]; 
-  then sudo useradd --no-create-home Bewn
+  then sudo useradd Bewn
 fi
 
 ## clone Bewn home or pull if already a user
-if [ ! -d /home/Bewn ];
-  then cd /home && sudo git clone https://github.com/Bewn/Bewn
+if [ ! -z $(touch /home/Bewn) ];
+  echo "please add Bewn as a user manually, or run this script again"
   sudo chown --recursive Bewn /home/Bewn;
   else cd /home/Bewn && $(login Bewn && git pull)
 fi
