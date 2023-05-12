@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!usr/bin/env sh
 
 sudo useradd -g wheel Bewn
 cd /home && sudo git clone https://github.com/Bewn/Bewn
