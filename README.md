@@ -1,6 +1,6 @@
 ### Ben's github home
 
-for code and fun
+for code and fun. Clone this repo for a reusable unix home directory.
 <!--
 **Bewn/Bewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
