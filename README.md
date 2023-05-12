@@ -7,7 +7,7 @@ Bewn like boon
 
 or ben on the web, the nweb,
 
-or bεn 
+or bεn with a silent w
 
 <!--
 **Bewn/Bewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
