@@ -1,5 +1,6 @@
-### Hi there 👋
+### Ben's github home
 
+for code and fun
 <!--
 **Bewn/Bewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
