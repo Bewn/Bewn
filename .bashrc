@@ -1,5 +1,5 @@
 alias gcm="git commit -m"
-alias gcmmu="git commut -m misc-update"
+alias gcmmu="git commit -m misc-update"
 alias gp="git push"
 
 alias sb="source ~/.bashrc"
