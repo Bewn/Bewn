@@ -7,3 +7,6 @@
 [submodule "textgen-one-click"]
 	path = textgen-one-click
 	url = https://github.com/Bewn/textgen-one-click
+[submodule "B"]
+	path = B
+	url = https://github.com/Bewn/B
