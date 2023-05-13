@@ -2,7 +2,7 @@
 https://github.com/Bewn/Bewn
 
 for code and fun. This repo itself is a reusable unix home directory.
-Clone it and run the script in .init to give user Bewn a secure home on any machine!
+Just run the add-Bewn script in .init to give user Bewn a secure home on any machine!
 
 Bewn like boon 
 
