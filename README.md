@@ -1,6 +1,8 @@
 ### Ben's github home
 https://github.com/Bewn/Bewn
 
+https://bewn.github.io
+
 for code and fun. This repo itself is a reusable unix home directory.
 Just run the add-Bewn script in .init to give user Bewn a secure home on any machine!
 
