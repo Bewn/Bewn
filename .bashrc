@@ -7,7 +7,7 @@ misc-update () {
 alias gcm="git commit -m"
 alias gcmmu=misc-update
 alias gp="git push"
-alias gu="git add -u"
+alias gau="git add -u"
 
 
 
