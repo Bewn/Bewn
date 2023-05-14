@@ -6,7 +6,8 @@ alias gu="git add -u"
 auto_commit () {
    git pull
    git add -u
-   git commit -m auto_commit:" $( if [ ! -z $1 ]; then return "$1"; else return '' ; fi)"
+   if [ ! -z $1 ]; then msg="$1"; else msg='' ; fi
+   git commit -m "auto_commit: ":$msg
    git push
 }
 
