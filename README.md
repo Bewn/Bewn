@@ -6,7 +6,7 @@ Just run the add-Bewn script in .init to give user Bewn a secure home on any mac
 
 Bewn like boon, or beau- like beauty spelled like pew
 
-or ben on the web, benweb,
+or ben on the web, symmetric bewnweb,
 
 or bεn with a silent w
 >
