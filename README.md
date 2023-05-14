@@ -5,7 +5,7 @@
 for code and fun. This repo itself is a reusable unix home directory.
 Run the add-Bewn script in .init to give user Bewn a secure home on any machine!
 
-like Mew or MewTwo or beau- like beauty spelled like pew
+bewn like mew or mewtwo or beau- like beauty spelled like pew
 
 or ben on the web, symmetric bewnweb,
 
