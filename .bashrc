@@ -1,7 +1,15 @@
+
+misc-update () {
+   git add -u
+   git commit -m "misc update: see changed files for detail"
+}
+
 alias gcm="git commit -m"
-alias gcmmu="git commit -m misc-update"
+alias gcmmu=misc-update
 alias gp="git push"
 alias gu="git add -u"
+
+
 
 auto_commit () {
    git pull
