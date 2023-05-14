@@ -10,3 +10,6 @@
 [submodule "B"]
 	path = B
 	url = https://github.com/Bewn/B
+[submodule "bewn.github.io"]
+	path = bewn.github.io
+	url = https://github.com/Bewn/bewn.github.io
