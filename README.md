@@ -1,5 +1,5 @@
 ### Ben's github home
-[github.com/Bewn](https://github.com/Bewn/Bewn)
+[github.com/Bewn/Bewn](https://github.com/Bewn/Bewn)
 
 [bewn.github.io](https://bewn.github.io)
 
