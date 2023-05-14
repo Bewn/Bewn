@@ -13,3 +13,24 @@
 [submodule "bewn.github.io"]
 	path = bewn.github.io
 	url = https://github.com/Bewn/bewn.github.io
+[submodule "projects/bsh"]
+	path = projects/bsh
+	url = https://github.com/Bewn/bsh
+[submodule "projects/B"]
+	path = projects/B
+	url = https://github.com/Bewn/B
+[submodule "projects/enclave"]
+	path = projects/enclave
+	url = https://github.com/Bewn/enclave
+[submodule "projects/textgen-one-click"]
+	path = projects/textgen-one-click
+	url = https://github.com/Bewn/textgen-one-click
+[submodule "projects/pybsh"]
+	path = projects/pybsh
+	url = https://github.com/Bewn/pybsh
+[submodule "projects/bewn.github.io"]
+	path = projects/bewn.github.io
+	url = https://github.com/Bewn/bewn.github.io
+[submodule "projects/textgen-ben"]
+	path = projects/textgen-ben
+	url = https://github.com/Bewn/textgen-ben
